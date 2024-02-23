@@ -1,0 +1,9 @@
+:root {
+    --allims-color-primary: #14335b;
+    --allims-color-secondary: #fff;
+    --allims-image-fav-icon: "https://allims.net/assets/allims_icon.ico";
+    --allims-image-login-background: "https://allims.net/assets/allims_background_gray.jpg";
+    --allims-image-login-logomarca: "https://allims.net/assets/allims_logo_color.png";
+    --allims-image-header-logomarca: "https://allims.net/assets/allims_logo_color.png";
+    --allims-image-login-sub-logomarca: "https://allims.net/assets/allims_logo_color.png";
+}
